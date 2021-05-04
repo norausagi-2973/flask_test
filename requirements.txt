@@ -1,0 +1,32 @@
+absl-py @ file:///opt/concourse/worker/volumes/live/aea96694-562a-4961-509a-d449e4835a9c/volume/absl-py_1615411185512/work
+astor==0.8.1
+certifi==2020.12.5
+click==7.1.2
+Flask==1.1.2
+gast==0.2.2
+google-pasta==0.2.0
+grpcio==1.14.1
+h5py @ file:///opt/concourse/worker/volumes/live/09cb9b5c-fac0-4b8e-4a2a-844fb10f14cb/volume/h5py_1593454153886/work
+itsdangerous==1.1.0
+Jinja2==2.11.3
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+Markdown==3.1.1
+MarkupSafe==1.1.1
+numpy @ file:///opt/concourse/worker/volumes/live/68a2c43e-e7be-4ce7-6ffe-0c4538e24200/volume/numpy_and_numpy_base_1603558310275/work
+olefile==0.46
+opt-einsum==3.1.0
+Pillow @ file:///opt/concourse/worker/volumes/live/d0757663-0751-456b-5d22-3c7bd181f2a1/volume/pillow_1617386150680/work
+protobuf==3.14.0
+PyYAML==5.4.1
+scipy @ file:///opt/concourse/worker/volumes/live/01799c8f-3d00-4c6b-5be2-f58e344bd56a/volume/scipy_1597719773996/work
+six @ file:///opt/concourse/worker/volumes/live/5839b2d2-7415-4ff0-4c61-c4cddf798f7c/volume/six_1605205320479/work
+tensorboard==2.0.0
+tensorflow==2.0.0
+tensorflow-estimator==2.0.0
+termcolor==1.1.0
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
