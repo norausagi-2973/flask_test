@@ -8,6 +8,6 @@
 
 `$ pip install -r requirements.txt`
 
-ファイルに移動し、起動
+起動
 
 `$ python upload.py`
